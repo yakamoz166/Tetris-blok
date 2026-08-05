@@ -1,0 +1,6 @@
+{
+  "name": "Modern Tetris",
+  "description": "A modern, gesture-controlled Tetris game for Android with no on-screen directional buttons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
